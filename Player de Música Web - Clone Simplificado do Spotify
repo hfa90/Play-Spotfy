@@ -1,0 +1,17 @@
+Este projeto é um clone simplificado do player de música do Spotify, desenvolvido utilizando HTML, CSS e JavaScript puro. O foco principal foi recriar a interface do player e suas funcionalidades básicas, proporcionando uma experiência de usuário similar à plataforma original.
+
+Funcionalidades:
+
+Interface Responsiva: Design adaptável a diferentes tamanhos de tela (desktop, tablet e mobile).
+Reprodução de Músicas: Controle de reprodução (play, pause, próxima, anterior).
+Barra de Progresso: Visualização do tempo decorrido e controle da posição da música.
+Controle de Volume: Ajuste do volume da música.
+Lista de Músicas: Exibição da lista de músicas disponíveis (títulos e artistas).
+Informações da Música: Exibição do título da música e do artista em destaque.
+Animações: Efeitos visuais sutis para melhorar a experiência do usuário.
+
+Tecnologias Utilizadas:
+
+HTML5: Estruturação do conteúdo e elementos da interface.
+CSS3: Estilização visual, incluindo layout, cores, fontes e animações.
+JavaScript (ES6+): Lógica de interação, manipulação do DOM, controle do player de áudio e gerenciamento da lista de músicas.
